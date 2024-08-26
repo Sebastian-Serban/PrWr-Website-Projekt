@@ -1,2 +1,2 @@
 # PrWr-Website-Project
-Hallo
+You can visit the website at https://ubs-cs.vercel.app/
